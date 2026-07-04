@@ -1,0 +1,6 @@
+# Runtime
+openai>=1.40.0
+python-dotenv>=1.0.1
+
+# Dev / test
+pytest>=8.0.0
